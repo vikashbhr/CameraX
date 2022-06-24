@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CameraPro</string>
+    <string name="s_no_photos">No photos</string>
+    <string name="s_take_photo">Take Photo</string>
+    <string name="s_camera">Camera</string>
+    <string name="s_proceed">Proceed</string>
+    <string name="s_save_to_cloud">Save to cloud</string>
+</resources>
